@@ -1,5 +1,5 @@
 //Listeners for colorblind filter buttons
-//Injects a javascript file on click event, the js file applies a filter to simulate colorblindness
+//Injects a javascript file on click event, the js file applies a filter to correct colorblindness
 
 window.selectedFilter = null;
 window.onload = function () {
