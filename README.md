@@ -1,7 +1,5 @@
 # colorblind-extension
-Chrome extension to correct 8 types of colorblindness - Using SVG filter created by [hail2u](https://github.com/hail2u/color-blindness-emulation)
-
-Check out my talk at EmberConf, presenting the extension! [Accessibility & Ember: Learning about Colorblidness](https://noti.st/agathebadia/DTySgu/accessibility-ember-learning-about-colorblindness#sKc0uBX)
+Chrome extension to correct 8 types of colorblindness
 
 ## Protan - Red colors
 * Protanopia - Total red colorblindness
@@ -16,6 +14,3 @@ Check out my talk at EmberConf, presenting the extension! [Accessibility & Ember
 * Achromatopsia - Total colorblindness
 * Achromatomaly - Partial colorblindness, with faded colors
 
-## More info
-* [Colorblindness corrector & documentation - Github repo](https://github.com/Agathebadia/colorblind-emulator)
-* [Colorblindness corrector & documentation - Netlify app](https://colorblindness-emulator.netlify.app/categories/no%20colorblindness)
