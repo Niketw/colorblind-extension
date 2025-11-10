@@ -16,8 +16,8 @@
     "default_popup": "popup.html"
   },
   "icons": {
-    "16": "public/assets/icon-sm.png",
-    "48": "public/assets/icon-md.png",
-    "128": "public/assets/icon-lg.png"
+    "16": "eye16.png",
+    "48": "eye48.png",
+    "128": "eye128.png"
   }
 }
